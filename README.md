@@ -31,7 +31,7 @@
 
 ###
 
-<h1 align="center">GenAI Enthusiast | ML Engineer | Agentic AI | Python</h1>
+<h1 align="center">GenAI 🚀| ML Engineer ❤️| Agentic AI ✨| Python 🌐</h1>
 
 ###
 
