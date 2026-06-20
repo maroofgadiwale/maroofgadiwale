@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="450" width = "750" src="outlook.png"  />
+  <img height="380" width = "650" src="outlook.png"  />
 </div>
 
 ###
