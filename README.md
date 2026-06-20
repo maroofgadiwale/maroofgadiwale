@@ -10,7 +10,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://leetcode.com/u/maroofgadiwale/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=twitter&label=&color=FDA403&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=twitter&label=&color=FDA403&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Leetcode"  />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/gmarot2co?from=explore&tab=activity" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GFG&logo=twitter&label=&color=48A111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GFG"  />
   </a>
   <a href="https://www.facebook.com/maroof.gadiwale" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
